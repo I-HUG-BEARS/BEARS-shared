@@ -1,1 +1,1 @@
-# PRIMES-shared
+# BEARS-shared
